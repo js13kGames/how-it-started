@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - narrative
 post: https://github.com/RomanMiniv/js13k-game-2024/blob/master/POST-MORTEM.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
